@@ -1,0 +1,37 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-01-24, 14:21:24" FileAge="1516819884000" FileType="45637" />
+      <File Name="Generated_Code/AS1.h" FileDate="2018-01-24, 14:21:22" FileAge="1516819882000" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-03-19, 15:52:08" FileAge="1521490928276" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/AS1.c" FileDate="2018-01-24, 14:21:22" FileAge="1516819882000" FileType="45637" CompNumb="9" />
+      <File Name="Sources/Events.h" FileDate="2018-03-19, 15:52:08" FileAge="1521490928295" FileType="131328" />
+      <File Name="Documentation/ADC de 8 bits.txt" FileDate="2018-03-19, 15:52:08" FileAge="1521490928740" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="131328" />
+      <File Name="Generated_Code/TI1.h" FileDate="2018-02-05, 14:14:17" FileAge="1517856257326" FileType="45637" CompNumb="8" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/TI1.c" FileDate="2018-02-05, 14:14:17" FileAge="1517856257334" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-01-31, 13:53:08" FileAge="1517422988233" FileType="45637" CompNumb="4" />
+      <File Name="Sources/main.c" FileDate="2018-04-11, 13:23:08" FileAge="1523469188627" FileType="128" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-04-05, 16:07:25" FileAge="1522960645366" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/ADC de 8 bits_SIGNALS.txt" FileDate="2018-04-11, 13:23:11" FileAge="1523469191908" FileType="3072" />
+      <File Name="Generated_Code/AD1.h" FileDate="2018-04-05, 16:07:25" FileAge="1522960645216" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="45637" />
+      <File Name="Documentation/ADC de 8 bits_Settings.xml" FileDate="2018-04-05, 16:07:25" FileAge="1522960645559" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-01-24, 14:21:26" FileAge="1516819886000" FileType="45637" />
+      <File Name="Generated_Code/AD1.c" FileDate="2018-04-05, 16:07:25" FileAge="1522960645341" FileType="45637" CompNumb="11" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>43</CodeGenReference>
+</CodeGenerationInfo>
